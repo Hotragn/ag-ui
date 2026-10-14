@@ -1,5 +1,0 @@
---dir
-lib
---ignore=.bundle
---ignore=vendor/bundle
---ignore=test
